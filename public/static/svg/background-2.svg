@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180.286" viewBox="0 0 180 180.286">
+  <g id="Top_Left_Graphic" data-name="Top Left Graphic" transform="translate(-300 -30)">
+    <path id="Union_2" data-name="Union 2" d="M-3232,90.143v-60.1A30.026,30.026,0,0,1-3202,0a30.025,30.025,0,0,1,30,30.047v60.1a30.025,30.025,0,0,1-30,30.047A30.026,30.026,0,0,1-3232,90.143Z" transform="translate(3592.006 90.096)" fill="#cd0040"/>
+    <path id="Path_113" data-name="Path 113" d="M420.012,30.048a30.025,30.025,0,0,1-30,30.048A30.026,30.026,0,0,1,420.012,30.048Z" transform="translate(0 30)" fill="#ff004f" fill-rule="evenodd"/>
+    <path id="Path_114" data-name="Path 114" d="M360.006,90.143a30.025,30.025,0,0,1,30-30.048A30.025,30.025,0,0,1,360.006,90.143Z" transform="translate(0 30)" fill-rule="evenodd"/>
+    <path id="Path_115" data-name="Path 115" d="M405.011,146.205a30.08,30.08,0,0,1,0-52.056,30.081,30.081,0,0,1,0,52.056Z" transform="translate(0 30)" fill="#fff" fill-rule="evenodd"/>
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="60.006" height="60.096" rx="30.003" transform="translate(300 60.048)" fill="#00f7ef"/>
+    <path id="Path_116" data-name="Path 116" d="M330,30.048A30.026,30.026,0,0,1,300,0a30.025,30.025,0,0,1,30,30.04,30.026,30.026,0,0,1,30-30.04,30.025,30.025,0,0,1-29.954,30.048A30.025,30.025,0,0,1,360.006,60.1,30.026,30.026,0,0,1,330,30.048Zm0,0A30.026,30.026,0,0,1,300,60.1,30.025,30.025,0,0,1,330,30.048Z" transform="translate(0 30)" fill-rule="evenodd"/>
+    <path id="Path_117" data-name="Path 117" d="M419.994,30.048H480V60.14a30,30,0,1,1-60.006,0Z" transform="translate(0 30)" fill="#00a9ce"/>
+    <path id="Path_118" data-name="Path 118" d="M450,60.1a30.026,30.026,0,0,1,30-30.048A30.026,30.026,0,0,1,450,60.1Z" transform="translate(0 30)" fill="#ff004f" fill-rule="evenodd"/>
+  </g>
+</svg>

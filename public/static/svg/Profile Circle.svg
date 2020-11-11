@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <filter id="Profile_Circle" x="0" y="0" width="250" height="250" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Profile_Circle)">
+    <circle id="Profile_Circle-2" data-name="Profile Circle" cx="80" cy="80" r="80" transform="translate(45 35)" fill="#f6f6f6"/>
+  </g>
+</svg>
