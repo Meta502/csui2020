@@ -1,36 +1,43 @@
 <template>
   <div id="app">
-    <Fam2020 msg="Welcome to Your Vue.js App"/>
+    <nav class="navbar navbar-expand-lg navbar-light blur px-5 py-0 my-0 sticky-top" style="z-index: 100; height:60px; background-color:rgba(255, 255, 255, 0.5);">
+    <a class="navbar-brand p-0" href="#">
+        <img src="static/svg/logo.svg" alt="" width="28px">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse px-lg-5" id="navbarNavAltMarkup" >
+      <div class="navbar-nav">
+        <router-link class="nav-link px-5 h-100 mx-0" style="font-family: 'San Francisco'; font-weight: 800; font-size:1.3rem;" to="/">Home</router-link>
+        <router-link class="nav-link px-5 h-100 mx-0" style="font-family: 'San Francisco'; font-weight: 800; font-size:1.3rem;" to="/fam">Fam</router-link>
+      </div>
+    </div>
+    </nav>
+    <router-view/>
   </div>
 </template>
 
-<script>
-import Fam2020 from './components/Fam2020.vue'
-
-export default {
-  name: 'App',
-  components: {
-    Fam2020
-  }
-}
-</script>
-
 <style>
-  .background-1 {
-      position:absolute;
-      top: 190px;
-      width: 250px
+  .blur {
+    opacity: 1;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
   }
 
-  .background-2 {
-      position:absolute;
-      top:0px; 
-      left:270px;
-      width:160px
+  ul.nav.navbar-nav li a:link {
+    line-height: 32px;
+    vertical-align: center;
   }
-
-  .background-3 {
-      position:absolute; top:0px; right:0; width:340px
+  .router-link-exact-active   {
+    background-color: black!important; 
+    color:white!important;
+  }
+  .navbar-nav .nav-link {
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 60px;
+    line-height: 60px;
+    background-color:rgba(255, 255, 255, 0);  
   }
 </style>
-
