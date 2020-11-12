@@ -16,11 +16,12 @@
               </div>
             </div>
         </div>
+        <keep-alive>
         <paginate class="row justify-content-center p-0 mx-0 mx-md-4" name="all" :list="fData" :per="50">
             <div class="my-5 px-4" v-for="item in paginated('all')" v-bind:key="item">
               <a href="#" data-toggle="modal" data-target="#exampleModal" v-on:click="selected = item" style="color: black; text-decoration: none">
                 <div class="image-card mx-auto text-left">
-                    <img class="rounded-circle profile-image" v-lazy="`https://drive.google.com/uc?export=view&id=${item.foto}`">
+                    <img class="rounded-circle profile-image" v-lazy="`${item.foto}`">
                 </div>
                 <div class="name-subtitle text-center p-3">
                     <p style="font-family: 'San Francisco'; font-weight: 700; letter-spacing: 0; font-size:1.1rem">
@@ -32,6 +33,7 @@
               </a>
             </div>
         </paginate>
+        </keep-alive>
         <div class="row">
           <div class="col-sm mx-auto">
             <paginate-links class="text-center" for="all"></paginate-links>
@@ -49,10 +51,10 @@
               </h3>
             </div>
             <div class="modal-body p-0" style="background-color: white; border-radius: 40px;">
-              <img v-bind:src="`https://drive.google.com/uc?export=view&id=${selected.foto}`" class="d-none d-xl-block" style="position: absolute; top:0; right:0; height: 100%;  border-radius: 40px;">
+              <img v-bind:src="`${selected.foto}`" class="d-none d-xl-block" style="position: absolute; top:0; right:0; height: 100%;  border-radius: 40px;">
               <div class="row m-0 p-5 card-row">
                 <div class="col-lg-6 text-center my-auto order-lg-2">
-                  <img class="rounded-circle card-image" v-bind:src="`https://drive.google.com/uc?export=view&id=${selected.foto}`">
+                  <img class="rounded-circle card-image" v-bind:src="`${selected.foto}`">
                 </div>
                 <div class="col-lg-6 order-lg-1">
                   <h1 class="card-jurusan" v-bind:style="[selected.jurusan.toLowerCase().startsWith('il') ? {color: '#FF004F'} : {color: '#34a1eb'}]">{{selected.jurusan}}</h1>
@@ -94,11 +96,13 @@
 </template>
 
 <script>
+import json from '../../public/static/json/keseluruhan.json'
+
 export default {
   name: 'Fam2020',
   data: function(){
     return {
-      data: [],
+      data: json,
       selected: {
         full_name: '',
         panggilan: '',
@@ -113,10 +117,6 @@ export default {
       paginate: ["all"],
       search: ''
     }
-  },
-  created: async function() {
-    let web_data = await this.$http.get('https://raw.githubusercontent.com/Meta1807/karya-angkatan-data/main/data.json')
-    this.data = web_data.data
   },
   computed: {
     fData() {

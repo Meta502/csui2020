@@ -4,6 +4,7 @@ import axios from 'axios'
 import VuePaginate from 'vue-paginate'
 import router from './router'
 import VueLazyload from 'vue-lazyload'
+import './registerServiceWorker'
 
 Vue.prototype.$http = axios
 
