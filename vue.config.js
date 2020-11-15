@@ -1,5 +1,10 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-      ? '/csui2020/'
-      : '/'
+    pwa: {
+        workboxPluginMode: 'GenerateSW',
+        workboxOptions: {
+            skipWaiting: true,
+            exclude: [/\.map$/, /_redirects/, /^.*jpg\/.*$/], //this fixed it.
+        }
+    },
+    publicPath: '/'
   }

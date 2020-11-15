@@ -4,6 +4,8 @@ import axios from 'axios'
 import VuePaginate from 'vue-paginate'
 import router from './router'
 import VueLazyload from 'vue-lazyload'
+import VueClipboard from 'vue-clipboard2'
+
 import './registerServiceWorker'
 
 Vue.prototype.$http = axios
@@ -11,17 +13,23 @@ Vue.prototype.$http = axios
 Vue.config.productionTip = false
 Vue.use(VuePaginate)
 Vue.use(VueLazyload, {
-  // set observer to true
-  loading: 'static/svg/loading.webp',
+  loading: 'static/svg/profilecircle.svg',
+  error: 'static/svg/profilecircle.svg',
   attempt: 1,
+  listenEvents: [ 'scroll' ],
   observer: true,
-
-  // optional
   observerOptions: {
-    rootMargin: '0px',
-    threshold: 0.1
+    rootMargin: '75px 0px'
+  },
+  adapter: {
+    loaded ({ $parent }) {
+      console.log( $parent )
+    }
   }
 })
+
+VueClipboard.config.autoSetContainer = true
+Vue.use(VueClipboard)
 
 new Vue({
   router,

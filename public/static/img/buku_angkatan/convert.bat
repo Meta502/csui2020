@@ -1,0 +1,1 @@
+magick mogrify -path ./test -resize 600x600^ -gravity Center -extent 600x600  *.jpg

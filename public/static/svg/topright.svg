@@ -1,0 +1,14 @@
+<svg id="Top_Right_Graphic" data-name="Top Right Graphic" xmlns="http://www.w3.org/2000/svg" width="120" height="240" viewBox="0 0 120 240">
+  <path id="Path_51" data-name="Path 51" d="M90,240a30,30,0,0,1-30-30V180.594a.594.594,0,0,1,.594-.594C93.4,180,120,207.191,120,240Z" fill="#00f7ef"/>
+  <rect id="Rectangle_39" data-name="Rectangle 39" width="60" height="60" transform="translate(60 120) rotate(-90)" fill="#ff004f"/>
+  <path id="Path_52" data-name="Path 52" d="M60,120V90A30,30,0,0,1,90,60h29.5a.5.5,0,0,1,.5.5C120,93.359,92.863,120,60,120Z"/>
+  <path id="Path_53" data-name="Path 53" d="M60,120a30,30,0,0,1-60,0Z" fill="#00f7ef" fill-rule="evenodd"/>
+  <path id="Path_54" data-name="Path 54" d="M60,120H0a30,30,0,0,1,60,0Z" fill="#00f7ef" fill-rule="evenodd"/>
+  <rect id="Rectangle_40" data-name="Rectangle 40" width="60" height="60" transform="translate(60 60) rotate(-90)" fill="#cd0040"/>
+  <path id="Path_55" data-name="Path 55" d="M90,180a30,30,0,0,1-30-30V120h60v30A30,30,0,0,1,90,180Z" fill="#cd0040"/>
+  <path id="Path_56" data-name="Path 56" d="M0,180a30,30,0,0,1,30-30A30,30,0,0,1,0,180Z" fill="#00f7ef" fill-rule="evenodd"/>
+  <path id="Path_57" data-name="Path 57" d="M60,60A30,30,0,0,1,90,90,30,30,0,0,1,60,60Z" fill="#00a9ce" fill-rule="evenodd"/>
+  <rect id="Rectangle_41" data-name="Rectangle 41" width="30" height="30" rx="15" transform="translate(75 225) rotate(-90)" fill="#ff004f"/>
+  <rect id="Rectangle_42" data-name="Rectangle 42" width="30" height="30" rx="15" transform="translate(75 165) rotate(-90)" fill="#00f7ef"/>
+  <path id="Path_58" data-name="Path 58" d="M90,210a30,30,0,0,1,30,30A30,30,0,0,1,90,210Z" fill="#06818e" fill-rule="evenodd"/>
+</svg>

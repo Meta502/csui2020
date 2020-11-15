@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="240" viewBox="0 0 180 240">
+  <g id="Bottom_Bottom_Left_Graphic" data-name="Bottom Bottom Left Graphic" transform="translate(0 -1350)">
+    <g id="Group_13" data-name="Group 13" transform="translate(0 1350)">
+      <path id="Union_12" data-name="Union 12" d="M120-1290v-60h30a30,30,0,0,1,30,30,30,30,0,0,1-30,30Zm-60,0H0v-60H120v60Z" transform="translate(0 1530)"/>
+      <path id="Union_13" data-name="Union 13" d="M60-1230H0v-90a30,30,0,0,1,30-30,30,30,0,0,1,30,30v30h60v60Z" transform="translate(0 1410)" fill="#00a9ce"/>
+      <path id="Path_145" data-name="Path 145" d="M0,30a30,30,0,0,0,60,0V0H.358A.358.358,0,0,0,0,.358Z" fill="#cd0040"/>
+      <path id="Path_146" data-name="Path 146" d="M120,150a30,30,0,0,0,30,30h29.406a.594.594,0,0,0,.594-.594C180,146.6,152.809,120,120,120Z" fill="#00f7ef"/>
+      <path id="Path_147" data-name="Path 147" d="M120,120H60a30,30,0,0,0,60,0Z" fill="#06818e" fill-rule="evenodd"/>
+      <path id="Path_148" data-name="Path 148" d="M60,180H0a30,30,0,0,0,60,0Z" fill="#ff004f" fill-rule="evenodd"/>
+      <path id="Path_150" data-name="Path 150" d="M60,180a30,30,0,0,0,30,30A30,30,0,0,0,60,180Z" fill="#fff" fill-rule="evenodd"/>
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="60" height="60" rx="30" transform="translate(0 60)" fill="#00f7ef"/>
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="60" height="60" rx="30" transform="translate(0 120)" fill="#ff004f"/>
+      <rect id="Rectangle_96" data-name="Rectangle 96" width="30" height="30" rx="15" transform="translate(15 195)" fill="#00a9ce"/>
+      <rect id="Rectangle_97" data-name="Rectangle 97" width="30" height="30" rx="15" transform="translate(75 75)" fill="#ff004f"/>
+      <rect id="Rectangle_98" data-name="Rectangle 98" width="30" height="30" rx="15" transform="translate(135 135)" fill="#ff004f"/>
+      <path id="Path_151" data-name="Path 151" d="M150,150a30,30,0,0,0-30-30A30,30,0,0,0,150,150Z" fill="#06818e" fill-rule="evenodd"/>
+      <path id="Path_152" data-name="Path 152" d="M60,150a30,30,0,0,0-30-30A30,30,0,0,0,60,150ZM0,90a30,30,0,0,0,30,30A30,30,0,0,0,0,90Zm30,30A30,30,0,0,0,0,150,30,30,0,0,0,30,120Zm0,0A30,30,0,0,0,60,90,30,30,0,0,0,30,120Z" fill="#51c5d2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

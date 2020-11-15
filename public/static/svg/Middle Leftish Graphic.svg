@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="180" viewBox="0 0 330 180">
+  <g id="Middle_Leftish_Graphic" data-name="Middle Leftish Graphic" transform="translate(0)">
+    <path id="Union_5" data-name="Union 5" d="M-200-540h-60v-60h120v60Z" transform="translate(440 720)" fill="#06818e"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="60" height="60" transform="translate(120 60)" fill="#00f7ef"/>
+    <path id="Union_4" data-name="Union 4" d="M-80-540v-60h30a30,30,0,0,1,30,30,30,30,0,0,1-30,30Zm-60,0h-60v-60H-80v60Zm-90,0a30,30,0,0,1-30-30,30,30,0,0,1,30-30h30v60Z" transform="translate(260 720)"/>
+    <path id="Path_42" data-name="Path 42" d="M120,30a30,30,0,0,1,60,0V60H120Z" fill="#00f7ef"/>
+    <path id="Union_7" data-name="Union 7" d="M-260-540h60a30,30,0,0,1-30,30A30,30,0,0,1-260-540Zm0,0v-30a30,30,0,0,1,30-30,30,30,0,0,1,30,30v30Z" transform="translate(440 660)" fill="#ff004f"/>
+    <path id="Path_44" data-name="Path 44" d="M120,180H60a30,30,0,0,1,60,0Z" fill="#ff004f" fill-rule="evenodd"/>
+    <path id="Union_6" data-name="Union 6" d="M-230-600a30,30,0,0,1,30,30,30,30,0,0,1-30,30Zm-30,30a30,30,0,0,1,30-30v60A30,30,0,0,1-260-570Z" transform="translate(530 720)" fill="#00f7ef"/>
+    <path id="Path_48" data-name="Path 48" d="M180,60a30,30,0,0,1-30,30A30,30,0,0,1,180,60Z" fill-rule="evenodd"/>
+    <path id="Path_49" data-name="Path 49" d="M240,120a30,30,0,0,1,30,30A30,30,0,0,1,240,120Z" fill="#00f7ef" fill-rule="evenodd"/>
+    <path id="Path_50" data-name="Path 50" d="M120,180a30,30,0,0,1,30-30A30,30,0,0,1,120,180Z" fill="#fff" fill-rule="evenodd"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="30" height="30" rx="15" transform="translate(75 135)" fill="#00a9ce"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="30" height="30" rx="15" transform="translate(195 75)" fill="#00a9ce"/>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="30" height="30" rx="15" transform="translate(135 105)" fill="#ff004f"/>
+  </g>
+</svg>

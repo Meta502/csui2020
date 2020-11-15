@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="206" viewBox="0 0 360 206">
+  <g id="Bottom_Left_Graphic" data-name="Bottom Left Graphic" transform="translate(0 -964)">
+    <g id="Group_11" data-name="Group 11" transform="translate(180 1080)">
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="60" height="60" transform="translate(60)" fill="#00f7ef"/>
+      <path id="Path_119" data-name="Path 119" d="M120,30a30,30,0,0,1,60,0V60H120Z" fill="#ff004f"/>
+      <path id="Path_120" data-name="Path 120" d="M0,30a30,30,0,0,1,60,0V60H.358A.358.358,0,0,1,0,59.642Z"/>
+      <path id="Path_121" data-name="Path 121" d="M60,60h60a30,30,0,0,1-60,0Z" fill="#06818e" fill-rule="evenodd"/>
+      <path id="Path_122" data-name="Path 122" d="M120,60h60a30,30,0,0,1-60,0Z" fill="#ff004f" fill-rule="evenodd"/>
+      <path id="Path_123" data-name="Path 123" d="M120,0A30,30,0,0,1,90,30,30,30,0,0,1,120,0Z" fill-rule="evenodd"/>
+      <rect id="Rectangle_73" data-name="Rectangle 73" width="30" height="30" rx="15" transform="translate(135 15)" fill="#00a9ce"/>
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="30" height="30" rx="15" transform="translate(75 45)" fill="#ff004f"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 964)">
+      <path id="Path_36" data-name="Path 36" d="M120,86a30,30,0,0,1,60,0v30H120.358a.358.358,0,0,1-.358-.358Z" fill="#cd0040"/>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="60" height="60" transform="translate(0 56)" fill="#fff"/>
+      <path id="Path_37" data-name="Path 37" d="M45,51.973A30.01,30.01,0,0,1,45,0a30.01,30.01,0,0,1,0,51.973Zm-30,0A30.01,30.01,0,0,1,15,0a30.01,30.01,0,0,1,0,51.973Z" fill="#00f7ef" fill-rule="evenodd"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="30" height="30" rx="15" transform="translate(75 11)" fill="#00f7ef"/>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="30" height="30" rx="15" transform="translate(15 11)" fill="#ff004f"/>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="60" height="60" transform="translate(60 56)"/>
+      <path id="Path_38" data-name="Path 38" d="M120,56H60a30,30,0,0,1,60,0Z" fill="#ff004f" fill-rule="evenodd"/>
+      <path id="Path_39" data-name="Path 39" d="M30,86A30,30,0,0,1,60,56,30,30,0,0,1,30,86Z" fill="#00a9ce" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg id="Top_Left_Graphic" data-name="Top Left Graphic" xmlns="http://www.w3.org/2000/svg" width="540" height="300" viewBox="0 0 540 300">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="60" height="60" transform="translate(240 60)"/>
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="60" height="60" transform="translate(180 60)"/>
+  <path id="Union_10" data-name="Union 10" d="M0,90V0A30,30,0,0,1,30-30,30,30,0,0,1,60,0V90Z" transform="translate(180 90)" fill="#00f7ef"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="60" height="60" rx="30" transform="translate(210 30)" fill="#00f7ef"/>
+  <path id="Path_2" data-name="Path 2" d="M180,150h60a30,30,0,0,1-60,0Z" transform="translate(0 30)" fill="#06818e" fill-rule="evenodd"/>
+  <path id="Union_11" data-name="Union 11" d="M0,30V-30H60V30A30,30,0,1,1,0,30Z" transform="translate(300 90)" fill="#06818e"/>
+  <path id="Path_4" data-name="Path 4" d="M360,120h60a30,30,0,0,1-60,0Z" transform="translate(0 -30)" fill="#00a9ce" fill-rule="evenodd"/>
+  <path id="Path_5" data-name="Path 5" d="M240,0a30,30,0,0,1-30,30A30,30,0,0,1,240,0ZM180,60a30,30,0,0,1,30-30A30,30,0,0,1,180,60Zm30-30A30,30,0,0,1,180,0,30,30,0,0,1,210,30Zm0,0a30,30,0,0,1,30,30A30,30,0,0,1,210,30Z" transform="translate(0 30)" fill="#06818e" fill-rule="evenodd"/>
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="60" height="90" transform="translate(360)" fill="#ff004f"/>
+  <rect id="Rectangle_6" data-name="Rectangle 6" width="60" height="60" transform="translate(0 120)" fill="#00f7ef"/>
+  <path id="Union_8" data-name="Union 8" d="M60-30A30,30,0,0,1,90,0,30,30,0,0,1,60,30ZM0,30V-30H60V30Z" transform="translate(0 270)" fill="#ff004f"/>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="60" height="60" rx="30" transform="translate(0 180)" fill="#cd0040"/>
+  <path id="Union_9" data-name="Union 9" d="M0,60V0A30,30,0,0,1,30-30,30,30,0,0,1,60,0V60A30,30,0,0,1,0,60Z" transform="translate(60 120)" fill="#cd0040"/>
+  <path id="Path_8" data-name="Path 8" d="M120,30A30,30,0,0,1,90,60,30,30,0,0,1,120,30Z" transform="translate(0 30)" fill="#06818e" fill-rule="evenodd"/>
+  <path id="Path_9" data-name="Path 9" d="M60,90A30,30,0,0,1,90,60,30,30,0,0,1,60,90Z" transform="translate(0 30)" fill-rule="evenodd"/>
+  <path id="Path_10" data-name="Path 10" d="M105,145.973A30.01,30.01,0,0,1,105,94a30.01,30.01,0,0,1,0,51.973Z" transform="translate(0 30)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Path_11" data-name="Path 11" d="M240,90a30,30,0,0,1-30,30A30,30,0,0,1,240,90Z" transform="translate(0 30)" fill-rule="evenodd"/>
+  <path id="Path_12" data-name="Path 12" d="M60,90a30,30,0,0,1-30,30A30,30,0,0,1,60,90Z" transform="translate(0 30)" fill="#00a9ce" fill-rule="evenodd"/>
+  <path id="Path_14" data-name="Path 14" d="M0,270a30,30,0,0,1,30-30A30,30,0,0,1,0,270Z" transform="translate(0 30)" fill="#00a9ce" fill-rule="evenodd"/>
+  <path id="Path_15" data-name="Path 15" d="M355.973,105A30.01,30.01,0,0,1,304,105a30.01,30.01,0,0,1,51.973,0Z" transform="translate(0 30)" fill="#00f7ef" fill-rule="evenodd"/>
+  <path id="Path_16" data-name="Path 16" d="M0,150a30,30,0,0,1,30-30A30,30,0,0,1,0,150Z" transform="translate(0 30)" fill="#06818e" fill-rule="evenodd"/>
+  <rect id="Rectangle_11" data-name="Rectangle 11" width="30" height="30" rx="15" transform="translate(15 195)"/>
+  <rect id="Rectangle_12" data-name="Rectangle 12" width="30" height="30" rx="15" transform="translate(75 255)"/>
+  <rect id="Rectangle_13" data-name="Rectangle 13" width="30" height="30" rx="15" transform="translate(195 165)" fill="#ff004f"/>
+  <path id="Path_17" data-name="Path 17" d="M420,60a30,30,0,0,1-30,30A30,30,0,0,1,420,60Zm-60,60a30,30,0,0,1,30-30A30,30,0,0,1,360,120Zm30-30a30,30,0,0,1-30-30A30,30,0,0,1,390,90Zm0,0a30,30,0,0,1,30,30A30,30,0,0,1,390,90Z" transform="translate(0 -30)" fill-rule="evenodd"/>
+  <path id="Path_18" data-name="Path 18" d="M120,30h60V60a30,30,0,0,1-60,0Z" transform="translate(0 30)" fill="#06818e"/>
+  <path id="Path_19" data-name="Path 19" d="M150,60a30,30,0,0,1,30-30A30,30,0,0,1,150,60Z" transform="translate(0 30)" fill="#ff004f" fill-rule="evenodd"/>
+  <rect id="Rectangle_14" data-name="Rectangle 14" width="60" height="60" transform="translate(540 120) rotate(180)" fill="#ff004f"/>
+  <path id="Path_20" data-name="Path 20" d="M540,90H510a30,30,0,0,1-30-30V30.5a.5.5,0,0,1,.5-.5C513.359,30,540,57.137,540,90Z" transform="translate(0 30)"/>
+  <path id="Path_21" data-name="Path 21" d="M480,60a30,30,0,0,1-30,30H420V30h30A30,30,0,0,1,480,60Z" transform="translate(0 30)" fill="#cd0040"/>
+  <path id="Path_22" data-name="Path 22" d="M480,90a30,30,0,0,1,30-30A30,30,0,0,1,480,90Z" transform="translate(0 30)" fill="#00a9ce" fill-rule="evenodd"/>
+  <rect id="Rectangle_15" data-name="Rectangle 15" width="30" height="30" rx="15" transform="translate(468.269 105) rotate(180)" fill="#00f7ef"/>
+</svg>
