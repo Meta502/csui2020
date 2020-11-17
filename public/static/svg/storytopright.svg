@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="405" viewBox="0 0 210 405">
+  <g id="Our_Story_Top_Right_Graphic" data-name="Our Story Top Right Graphic" transform="translate(-1710 -2906)">
+    <g id="Group_44" data-name="Group 44" transform="translate(4361 3101) rotate(180)">
+      <path id="Path_704" data-name="Path 704" d="M480,120H420a30,30,0,0,1,60,0Z" transform="translate(2741 -465) rotate(90)" fill="#00f7ef" fill-rule="evenodd"/>
+      <rect id="Rectangle_258" data-name="Rectangle 258" width="60" height="60" transform="translate(2501 -45)" fill="#ff004f"/>
+      <rect id="Rectangle_259" data-name="Rectangle 259" width="60" height="60" transform="translate(2561 -45)" fill="#00f7ef"/>
+      <rect id="Rectangle_260" data-name="Rectangle 260" width="60" height="60" transform="translate(2441 -165)" fill="#00a9ce"/>
+      <rect id="Rectangle_261" data-name="Rectangle 261" width="60" height="60" transform="translate(2561 75) rotate(180)" fill="#ff004f"/>
+      <path id="Path_705" data-name="Path 705" d="M360,180h30a30,30,0,0,1,30,30v29.5a.5.5,0,0,1-.5.5h0c-32.863,0-59.5-27.137-59.5-60Z" transform="translate(2921 255) rotate(180)"/>
+      <path id="Path_706" data-name="Path 706" d="M360,180V120a30,30,0,0,1,0,60Z" transform="translate(2141 -165)" fill="#00f7ef" fill-rule="evenodd"/>
+      <path id="Path_707" data-name="Path 707" d="M420,300a30,30,0,0,1,0-60Z" transform="translate(2261 495) rotate(-90)" fill="#00f7ef" fill-rule="evenodd"/>
+      <path id="Path_708" data-name="Path 708" d="M300,210a30,30,0,0,1,30-30h30v60H330a30,30,0,0,1-30-30Z" transform="translate(2921 255) rotate(180)" fill="#cd0040"/>
+      <path id="Path_709" data-name="Path 709" d="M300,120a30,30,0,0,1,30,30A30,30,0,0,1,300,120Z" transform="translate(2141 -165)" fill="#00f7ef" fill-rule="evenodd"/>
+      <path id="Path_710" data-name="Path 710" d="M420,180a30,30,0,0,1-30,30A30,30,0,0,1,420,180Z" transform="translate(2921 255) rotate(180)" fill="#00a9ce" fill-rule="evenodd"/>
+      <path id="Path_711" data-name="Path 711" d="M355.973,75A30.01,30.01,0,0,1,304,75a30.01,30.01,0,0,1,51.973,0Z" transform="translate(2141 -165)" fill="#00f7ef" fill-rule="evenodd"/>
+      <rect id="Rectangle_263" data-name="Rectangle 263" width="60" height="60" rx="30" transform="translate(2561 -45)"/>
+      <rect id="Rectangle_264" data-name="Rectangle 264" width="30" height="30" rx="15" transform="translate(2576 -30)" fill="#00a9ce"/>
+      <rect id="Rectangle_265" data-name="Rectangle 265" width="30" height="30" rx="15" transform="translate(2606 60) rotate(180)" fill="#00f7ef"/>
+      <rect id="Rectangle_266" data-name="Rectangle 266" width="30" height="30" rx="15" transform="translate(2576 90)" fill="#ff004f"/>
+      <path id="Path_712" data-name="Path 712" d="M480,300a30,30,0,0,1-30,30A30,30,0,0,1,480,300Zm-60,60a30,30,0,0,1,30-30A30,30,0,0,1,420,360Zm30-30a30,30,0,0,1-30-30A30,30,0,0,1,450,330Zm0,0a30,30,0,0,1,30,30A30,30,0,0,1,450,330Z" transform="translate(2141 -165)" fill="#00f7ef" fill-rule="evenodd"/>
+    </g>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="30" height="30" rx="15" transform="translate(1905 3311) rotate(180)" fill="#00f7ef"/>
+    <path id="Path_108" data-name="Path 108" d="M120,330H60a30,30,0,1,1,60,0Z" transform="translate(1980 3596) rotate(180)" fill="#ff004f" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="120" viewBox="0 0 210 120">
+  <g id="Our_Story_Bottom_Rightish_Graphic" data-name="Our Story Bottom Rightish Graphic" transform="translate(-932 -3764)">
+    <rect id="Rectangle_196" data-name="Rectangle 196" width="60" height="60" transform="translate(1052 3764) rotate(90)" fill="#00f7ef"/>
+    <path id="Path_621" data-name="Path 621" d="M180,30A30,30,0,0,1,210,0h0a30,30,0,0,1,30,30V60H180Z" transform="translate(1112 3584) rotate(90)" fill="#00f7ef"/>
+    <path id="Union_18" data-name="Union 18" d="M-840-36A30,30,0,0,1-810-6h0a30,30,0,0,1-30,30h-30V-36Z" transform="translate(1862 3860)" fill="#ff004f"/>
+    <path id="Path_626" data-name="Path 626" d="M180,120h60a30,30,0,0,1-60,0Z" transform="translate(1112 3584) rotate(90)" fill="#06818e" fill-rule="evenodd"/>
+    <path id="Path_635" data-name="Path 635" d="M240-30A30,30,0,0,1,210,0,30,30,0,0,1,240-30ZM180,30A30,30,0,0,1,210,0,30,30,0,0,1,180,30ZM210,0a30,30,0,0,1-30-30A30,30,0,0,1,210,0Zm0,0a30,30,0,0,1,30,30A30,30,0,0,1,210,0Z" transform="translate(1112 3584) rotate(90)" fill="#06818e" fill-rule="evenodd"/>
+    <path id="Path_648" data-name="Path 648" d="M240,60a30,30,0,0,1-30,30A30,30,0,0,1,240,60Z" transform="translate(1112 3584) rotate(90)" fill-rule="evenodd"/>
+    <path id="Path_656" data-name="Path 656" d="M180,180a30,30,0,0,1,30-30A30,30,0,0,1,180,180Z" transform="translate(1112 3584) rotate(90)" fill-rule="evenodd"/>
+    <rect id="Rectangle_226" data-name="Rectangle 226" width="30" height="30" rx="15" transform="translate(1037 3839) rotate(90)" fill="#00a9ce"/>
+    <rect id="Rectangle_228" data-name="Rectangle 228" width="30" height="30" rx="15" transform="translate(1007 3779) rotate(90)" fill="#ff004f"/>
+  </g>
+</svg>

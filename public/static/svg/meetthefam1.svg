@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="264" height="153" viewBox="0 0 264 123">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_43" data-name="Rectangle 43" width="208" height="122" transform="translate(30)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="meet_the_fam_Button_default_state" data-name="meet the fam Button default state" transform="translate(1)">
+    <g id="Group_8" data-name="Group 8" transform="translate(-3.498)">
+      <g id="Group_7" data-name="Group 7" clip-path="url(#clip-path)">
+        <path id="Path_79" data-name="Path 79" d="M30,92.541C39.225,73.687,57.017,71.81,75.682,69.916,61.02,84.456,65.139,102.866,64.315,122H30Z"/>
+        <path id="Path_80" data-name="Path 80" d="M185.679,120.814H82.453c0-9.451-1.532-18.969.544-27.614,1.384-5.763,6.9-12.333,12.323-15,25.337-12.531,51.382-12.333,76.983-.346,9.011,4.215,13.986,11.708,13.443,22.3C185.4,106.851,185.679,113.6,185.679,120.814Z"/>
+        <path id="Path_81" data-name="Path 81" d="M99.042,25.622C99.19,40.293,88.12,51.672,73.606,51.8,58.945,51.935,47.627,40.9,47.479,26.3a25.785,25.785,0,1,1,51.563-.675Z"/>
+        <path id="Path_82" data-name="Path 82" d="M159.65,26.034A25.4,25.4,0,0,1,133.769,51.8c-14.678-.033-25.715-11.181-25.666-25.935a25.774,25.774,0,1,1,51.547.165Z"/>
+        <path id="Path_83" data-name="Path 83" d="M194.8,51.8c-14.777.132-25.963-10.785-26.111-25.474C168.562,11.658,179.567.247,194.1,0a25.534,25.534,0,0,1,26.144,25.589A25.389,25.389,0,0,1,194.8,51.8Z"/>
+        <path id="Path_84" data-name="Path 84" d="M203.421,120.65c-1.005-17.5,3.509-35.815-11.647-49.7,11.911-2.174,30.3,3.425,38.829,11.329,11.763,10.9,5.47,24.979,7.381,38.367Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

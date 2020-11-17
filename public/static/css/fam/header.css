@@ -1,0 +1,26 @@
+.header-main-text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600; 
+    letter-spacing: 0; 
+    font-size:4.5rem;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+  }
+  
+.header-sub-text {
+-webkit-user-select: none; /* Safari */        
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* IE10+/Edge */
+user-select: none; /* Standard */
+}
+
+@media (max-width: 576px) { 
+    .header-main-text {
+    font-family: 'Inter', sans-serif;
+      font-weight: 600; 
+      letter-spacing: 0; 
+      font-size:4.0rem
+    }
+}

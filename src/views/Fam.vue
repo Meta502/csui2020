@@ -1,7 +1,9 @@
 <template>
-  <transition name="fade">
-    <Fam2020 v-if="loaded" />
-  </transition>
+  <div>
+    <transition name="fade">
+      <Fam2020 v-if="loaded" />
+    </transition>
+  </div> 
 </template>
 
 <script>

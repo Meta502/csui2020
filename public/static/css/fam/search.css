@@ -1,0 +1,234 @@
+.dropdown-toggle-button {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    outline: none!important;
+    box-shadow: none!important;
+}
+
+.search-bar:focus, .search-bar:active {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.search-dropdown-button {
+    transition: all 0.2s;
+}
+
+.search-dropdown-button:hover {
+    background-color: #6691ff;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s
+}
+
+.search-dropdown-button-active {
+    background-color: #6691ff;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s
+}
+
+.search-dropdown-button:first-child {
+    border-top-left-radius: 6px!important;
+    border-top-right-radius: 6px!important;
+}
+
+.search-dropdown-button:last-child {
+    border-bottom-left-radius: 16px!important;
+    border-bottom-right-radius: 16px!important;
+}
+
+.dropdown {
+    position: absolute;
+    display: block;
+    left: 0.5rem;
+    top: 2.35rem;
+    border-bottom-left-radius: 16px!important;
+    border-bottom-right-radius: 16px!important;
+    border-top-right-radius: 8px!important;
+    border-top-left-radius: 8px!important;
+}
+
+.dropdown-content:last-child {
+    border-bottom-left-radius: 16px!important;
+    border-bottom-right-radius: 16px!important;
+}
+
+.dropdown-content {
+    display: block;
+    position: absolute;
+    background-color: #f9f9f9;
+    width:17rem;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 0px 0px;
+    z-index: 1;
+    font-weight: 300;
+    font-family: 'Inter', sans-serif;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.search-group {
+    width: 14rem;
+    transition: width 0.2s
+}
+.search-group-active, .search-group:hover {
+    width: 18rem;
+    transition: width 0.2s
+}
+
+/* Tooltip container */
+.tooltip-img {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* Tooltip text */
+.tooltip-img .tooltip-imgtext {
+    font-family: "Inter", sans-serif;
+    font-size: 0.8rem;
+    visibility: hidden;
+    min-width: 100px;
+    background-color: #434343;
+    color: #fff;
+    text-align: center;
+    padding: 0 0;
+    border-radius: 15px;
+
+    position: absolute;
+    top: 55px;
+    left: -22px;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip-img:hover .tooltip-imgtext {
+    visibility: visible;
+}
+
+.search-jurusan {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600
+}
+
+.advanced-search-toggle {
+    text-decoration: none;
+    color: gray
+}
+
+.advanced-search-toggle:hover, .advanced-search-toggle.active {
+    text-decoration: none;
+    color: black
+}
+
+.search-jurusan-all {
+    color: #9A519D
+}
+.search-jurusan-ilkom {
+    color: #FF004F
+}
+.search-jurusan-si {
+    color: #34a1eb
+}
+
+.search-sort {
+    color: gray;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600
+}
+
+.search-sort.active, .search-sort:hover {
+    color: #FFFFFF;
+    background-color: gray
+}
+
+.search-jurusan-all.active, .search-jurusan-all:hover {
+    color: #FFFFFF;
+    background-color: #9A519D
+}
+
+.search-jurusan-ilkom.active, .search-jurusan-ilkom:hover {
+    color: #FFFFFF;
+    background-color: #FF004F
+}
+.search-jurusan-si.active, .search-jurusan-si:hover {
+    color: #FFFFFF;
+    background-color: #34a1eb
+}
+
+ul.advanced-search-jurusan {
+    padding: 0;
+    list-style-type: none;
+    margin-bottom: 0;
+    font-family: 'Inter', sans-serif
+}
+
+ul.advanced-search-jurusan > li {
+    display: inline-block;
+    cursor: pointer;
+    margin: 0 0.5rem;
+    zoom:1;
+    *display:inline;
+    /* this fix is needed for IE7- */
+}
+
+ul.advanced-search-jurusan > li > a {
+    padding: 3px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 24px;
+    outline:none;
+}
+
+ul.advanced-search-sort {
+    padding: 0;
+    list-style-type: none;
+}
+
+ul.advanced-search-sort > li {
+    display: inline-block;
+    cursor: pointer;
+    margin: 0 0.5rem;
+    zoom:1;
+    *display:inline;
+    /* this fix is needed for IE7- */
+}
+
+ul.advanced-search-sort > li > span {
+    padding: 3px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 24px;
+    outline:none;
+}
+
+.tooltip-img > textarea {
+    display: none
+}
+
+@media (max-width: 576px) { 
+    ul.advanced-search-jurusan > li {
+      display: block;
+      cursor: pointer;
+      margin: 0 0.5rem;
+      zoom:1;
+      *display:inline;
+      /* this fix is needed for IE7- */
+    }
+
+    ul.advanced-search-sort > li {
+        display: block;
+        cursor: pointer;
+        margin: 0 0.5rem;
+        zoom:1;
+        *display:inline;
+        /* this fix is needed for IE7- */
+    }
+
+}

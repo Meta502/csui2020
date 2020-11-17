@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <nav class="navbar navbar-expand-lg navbar-light blur px-lg-5 py-0 my-0 sticky-top" style="z-index: 100; height:60px; background-color:rgba(255, 255, 255, 0.5);">
+    <nav class="navbar navbar-expand-lg navbar-light blur px-0 px-lg-5 py-0 my-0 sticky-top" style="z-index: 100; height:60px; background-color:rgba(255, 255, 255, 0.5);">
     <a class="navbar-brand p-0 ml-5 ml-lg-none" href="#">
         <img src="static/svg/logo.svg" alt="" width="28px">
     </a>
@@ -9,8 +9,8 @@
     </button>
     <div class="collapse navbar-collapse px-lg-5" id="navbarNavAltMarkup" >
       <div class="navbar-nav">
-        <router-link class="nav-link hvr-sweep-to-left-custom px-5 h-100 mx-0" style="font-family: 'Inter', sans-serif; font-weight: 600; font-size:1.3rem; color: black" to="/">Home</router-link>
-        <router-link class="nav-link hvr-sweep-to-right-custom px-5 h-100 mx-0" style="font-family: 'Inter', sans-serif; font-weight: 600; font-size:1.3rem; color: black" to="/fam">Fam</router-link>
+        <router-link class="nav-link hvr-sweep-to-right-custom px-5 h-100 mx-0" style="font-family: 'Inter', sans-serif; font-weight: 600; font-size:1.3rem; color: black" to="/">Home</router-link>
+        <router-link class="nav-link hvr-sweep-to-left-custom px-5 h-100 mx-0" style="font-family: 'Inter', sans-serif; font-weight: 600; font-size:1.3rem; color: black" to="/fam">Fam</router-link>
       </div>
     </div>
     </nav>
@@ -21,6 +21,13 @@
 </template>
 
 <style>
+  .unselectable {
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+  }
+
   /* width */
   ::-webkit-scrollbar {
     width: 10px;

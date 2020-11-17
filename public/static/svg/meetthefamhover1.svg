@@ -1,0 +1,17 @@
+<svg id="meet_the_fam_Button_hover_state" data-name="meet the fam Button hover state" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="319.299" height="212.641" viewBox="0 0 319.299 212.641">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_43" data-name="Rectangle 43" width="319.299" height="187.281" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-30)">
+    <g id="Group_7" data-name="Group 7" transform="translate(30)" clip-path="url(#clip-path)">
+      <path id="Path_79" data-name="Path 79" d="M30,104.648c14.162-28.943,41.474-31.824,70.126-34.731-22.507,22.32-16.185,50.58-17.449,79.953H30Z" transform="translate(-30 37.412)" fill="#00f7ef"/>
+      <path id="Path_80" data-name="Path 80" d="M241.206,148.629H82.744c0-14.508-2.352-29.119.835-42.39,2.124-8.847,10.6-18.933,18.916-23.028,38.894-19.236,78.876-18.933,118.176-.531,13.833,6.471,21.47,17.972,20.636,34.226C240.776,127.195,241.206,137.558,241.206,148.629Z" transform="translate(-2.224 36.831)"/>
+      <path id="Path_81" data-name="Path 81" d="M126.634,39.333c.228,22.522-16.767,39.989-39.046,40.191-22.507.2-39.881-16.734-40.108-39.155S64.3.33,86.576,0C108.831-.327,126.407,16.938,126.634,39.333Z" transform="translate(-20.648 -0.002)" fill="#00f7ef"/>
+      <path id="Path_82" data-name="Path 82" d="M187.232,39.964c-.051,22.421-17.3,39.61-39.73,39.559-22.532-.051-39.475-17.164-39.4-39.812C108.154,17.366,125.577-.1,147.782,0,170.087.1,187.283,17.517,187.232,39.964Z" transform="translate(11.792 0)"/>
+      <path id="Path_83" data-name="Path 83" d="M208.777,79.525c-22.684.2-39.856-16.557-40.083-39.1-.2-22.522,16.691-40.04,39-40.419,22.2-.354,39.88,16.911,40.133,39.281C248.128,61.78,231.082,79.3,208.777,79.525Z" transform="translate(44.213 -0.002)" fill="#ff004f"/>
+      <path id="Path_84" data-name="Path 84" d="M209.653,147.494c-1.543-26.87,5.387-54.979-17.879-76.288,18.284-3.337,46.507,5.258,59.606,17.391,18.057,16.734,8.4,38.345,11.331,58.9Z" transform="translate(56.564 37.714)" fill="#ff004f"/>
+    </g>
+  </g>
+</svg>
